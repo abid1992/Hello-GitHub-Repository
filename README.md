@@ -7,6 +7,8 @@ My mood:
 
 > [Un-Successful]
 
+> [Successful]
+
 My favorite color:
 
 > [Greed]
