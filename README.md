@@ -12,5 +12,5 @@ My mood:
 My favorite color:
 
 > [Greed]
-
+> [Blue]
 Thank you so much for reading! ☺
